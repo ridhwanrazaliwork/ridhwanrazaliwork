@@ -1,4 +1,4 @@
-### Hi there It's a me Ridhwan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif"><img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif" width="29px" style="max-width: 100%;"></a>
+### Hi there It's a me Ridhwan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif"><img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif" width="50px" style="max-width: 100%;"></a>
 - 🎓 Materials Science graduate from Universiti Malaya
 - 🙇🏻‍♂️ Currently residing in Alam Damai, Kuala Lumpur
 - 💡 Passionate in Science and tech especially semiconductor
