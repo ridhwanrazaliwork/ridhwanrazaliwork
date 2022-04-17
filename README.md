@@ -6,8 +6,8 @@
 - 🙇🏻‍♂️ Currently residing in Alam Damai, Kuala Lumpur
 - 💡 Passionate in Science and tech especially semiconductor
 - 📖 Like to adapt and learn new knowledge or skills
-- 
-- ### 🤝🏻Contact me
+
+### 🤝🏻Contact me
   
 <p>
 <a href= "mailto:ridhwanrazaliwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
