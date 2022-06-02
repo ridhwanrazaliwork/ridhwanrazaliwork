@@ -1,4 +1,4 @@
-### Hi there It's a me Ridhwan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif"><img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif" width="50px" style="max-width: 100%;"></a>
+### Hi there It's a me Ridhwan <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif"><img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/Mario-gif.gif" width="50px" style="max-width: 50%;"></a>
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif"><img alt="Lofi study" src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" align="right" width="400px" style="max-width:100%;"></a></p>
 
