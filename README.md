@@ -3,7 +3,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif"><img alt="Lofi study" src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" align="right" width="300" style="max-width:100%;"></a></p>
 
 # 💫 About Me:
-🎓 Materials Science graduate from Universiti Malaya<br>⚡ I’m addicted to learning and growing every day<br>🔭 I’m currently working on improving my data science skills<br>🌱 I’m currently learning Neural network<br>
+🎓 Materials Science graduate from Universiti Malaya<br>⚡ I’m addicted to learning and growing every day<br>🔭 I’m currently working on improving my data science/engineer skills<br>🌱 I’m currently learning Bash scripting and Pyspark<br>
 
 
 ## 🌐 Socials:
