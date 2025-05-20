@@ -3,7 +3,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif"><img alt="Lofi study" src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" align="right" width="300" style="max-width:100%;"></a></p>
 
 # 💫 About Me:
-🎓 Materials Science graduate from Universiti Malaya<br>⚡
+🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>⚡
 
 
 ## 🌐 Socials:
@@ -19,9 +19,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ridhwanrazaliwork&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ---
