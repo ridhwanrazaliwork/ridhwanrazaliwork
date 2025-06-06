@@ -1,4 +1,4 @@
-# Hi there It's me Ridhwan 👋<a target="_blank" rel="noopener noreferrer" 
+# Hi there It's me Ridhwan 👋
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif"><img alt="Lofi study" src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" align="right" width="300" style="max-width:100%;"></a></p>
 
@@ -6,8 +6,8 @@
 🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>⚡
 
 ## 💼 Work Experience
-- **Outlier.AI** - Freelance, Remote
-  AI Model Response Evaluator (Nov 2024 – Current)
+- **Outlier.AI** - Freelance, Remote 
+  AI Model Response Evaluator (Nov 2024 – Current) 
 - **Alignerr** - Freelance, Remote 
   AI Model Response Evaluator (Nov 2024 – Current)  
 - **Valuelabs** - Kuala Lumpur, Malaysia  
