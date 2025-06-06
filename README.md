@@ -6,13 +6,17 @@
 🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>⚡
 
 ## 💼 Work Experience
-- **Outlier.AI** - Freelance, Remote 
+- **Outlier.AI** - Freelance, Remote
+  
   AI Model Response Evaluator (Nov 2024 – Current) 
-- **Alignerr** - Freelance, Remote 
+- **Alignerr** - Freelance, Remote
+  
   AI Model Response Evaluator (Nov 2024 – Current)  
-- **Valuelabs** - Kuala Lumpur, Malaysia  
+- **Valuelabs** - Kuala Lumpur, Malaysia
+  
   Data Engineer (Sep 2023 – Nov 2024)  
-- **Astro** - Kuala Lumpur, Malaysia 
+- **Astro** - Kuala Lumpur, Malaysia
+  
   Trainee Data Engineer (Aug 2022 – Sep 2023)  
   
 ## 🌐 Socials:
