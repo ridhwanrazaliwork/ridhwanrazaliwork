@@ -53,4 +53,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ridhwanrazaliwork&icon=1&color=2)](https://visitcount.itsvg.in)
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/username)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/ridhwanrazali)
