@@ -1,23 +1,24 @@
 # Hi there It's me Ridhwan 👋
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif"><img alt="Lofi study" src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" align="right" width="300" style="max-width:100%;"></a></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" alt="GIF" width="500"> 
+</div>
 
 # 💫 About Me:
 🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>⚡
 
 ## 💼 Work Experience
-- **Outlier.AI** - Freelance, Remote
-  
+
   AI Model Response Evaluator (Nov 2024 – Current) 
 - **Alignerr** - Freelance, Remote
+- **Outlier.AI** - Freelance, Remote
   
-  AI Model Response Evaluator (Nov 2024 – Current)  
+  Data Engineer (Sep 2023 – Nov 2024) 
 - **Valuelabs** - Kuala Lumpur, Malaysia
-  
-  Data Engineer (Sep 2023 – Nov 2024)  
+
+  Junior Data Engineer (Aug 2022 – Sep 2023) 
 - **Astro** - Kuala Lumpur, Malaysia
   
-  Trainee Data Engineer (Aug 2022 – Sep 2023)  
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ridhwan-bin-razali) 
@@ -27,7 +28,7 @@
 - 🌐 **Frontend**: HTML, CSS, React
 - ⚙️ **Backend**: Node.js, FastAPI  
 - 🗄️ **Databases**: PostgreSQL, MongoDB,   
-- ☁️ **DevOps & Cloud**: AWS, GCP, CI/CD, Docker
+- ☁️ **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes
 - 📦 **Tools**: Git, Bitbucket 
 
 ## 🎓 Education
@@ -37,6 +38,13 @@
   Universiti Malaya, Bangsar, Kuala Lumpur | 2018 – 2022
 
 ## 🎖️ Certificates
+<a href="https://www.credly.com/badges/688c06a9-a00a-4d4d-a4d1-71081a15c2a7/public_url">
+  <img src="https://images.credly.com/size/340x340/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png" width="200" alt="Google Cloud Data Analyst">
+</a>
+<a href="https://www.credly.com/badges/85768225-9c63-48ee-91f7-3b056c6116cc/public_url">
+  <img src="https://images.credly.com/size/340x340/images/505080ad-3731-4b1d-98df-347655a45750/image.png" width="200" alt="Google Cloud Cybersecurity">
+</a>
+
 
 ## 📄 Papers
 
