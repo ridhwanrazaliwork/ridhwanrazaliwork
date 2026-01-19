@@ -28,8 +28,8 @@
 - 🌐 **Frontend**: HTML, CSS, React
 - ⚙️ **Backend**: Node.js, FastAPI  
 - 🗄️ **Databases**: PostgreSQL, MongoDB,   
-- ☁️ **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes
-- 📦 **Tools**: Git, Bitbucket 
+- ☁️ **DevOps & Cloud**: AWS, GCP, CI/CD, Docker, Kubernetes, Azure
+- 📦 **Tools**: Git, Bitbucket, Databricks, Qubole, Vertex AI
 
 ## 🎓 Education
 - **MSc. of Data Science**  
