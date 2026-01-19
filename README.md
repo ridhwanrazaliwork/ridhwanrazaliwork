@@ -5,18 +5,18 @@
 </div>
 
 # 💫 About Me:
-🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>⚡
+🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>
 
 ## 💼 Work Experience
 
-  AI Model Response Evaluator (Nov 2024 – Current) 
+### AI Model Response Evaluator (Nov 2024 – Current) 
 - **Alignerr** - Freelance, Remote
 - **Outlier.AI** - Freelance, Remote
   
-  Data Engineer (Sep 2023 – Nov 2024) 
+### Data Engineer (Sep 2023 – Nov 2024) 
 - **Valuelabs** - Kuala Lumpur, Malaysia
 
-  Junior Data Engineer (Aug 2022 – Sep 2023) 
+### Junior Data Engineer (Aug 2022 – Sep 2023) 
 - **Astro** - Kuala Lumpur, Malaysia
   
   
