@@ -1,7 +1,9 @@
 # Hi there It's me Ridhwan 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/master/src/lofi-lofi-study.gif" alt="GIF" width="500"> 
+  <kbd>
+    <img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/refs/heads/main/src/LLama_reading.png" alt="Llama Reading" width="500">
+  </kbd>
 </div>
 
 # 💫 About Me:
