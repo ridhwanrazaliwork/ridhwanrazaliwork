@@ -1,11 +1,5 @@
 # Hi there It's me Ridhwan 👋
 
-<div align="center">
-  <kbd>
-    <img src="https://raw.githubusercontent.com/ridhwanrazaliwork/ridhwanrazaliwork/refs/heads/main/src/LLama_reading.png" alt="Llama Reading" width="500">
-  </kbd>
-</div>
-
 # 💫 About Me:
 🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>
 
