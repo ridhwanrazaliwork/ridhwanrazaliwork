@@ -1,7 +1,7 @@
 # Hi there It's me Ridhwan 👋
 
 # 💫 About Me:
-🎓 Materials Science graduate and Data Science student from Universiti Malaya<br>
+🎓 Data Science student from Universiti Malaya<br>
 
 ## 💼 Work Experience
 
@@ -14,6 +14,12 @@
 
 ### Junior Data Engineer (Aug 2022 – Sep 2023) 
 - **Astro** - Kuala Lumpur, Malaysia
+
+## 🎓 Education
+- **MSc. of Data Science**  
+  Universiti Malaya, Bangsar, Kuala Lumpur | 2024 – current  
+- **BSc. of Materials Science**  
+  Universiti Malaya, Bangsar, Kuala Lumpur | 2018 – 2022
    
    
 ## 🌐 Socials:
@@ -51,11 +57,7 @@
 ### ⚙️ **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
-## 🎓 Education
-- **MSc. of Data Science**  
-  Universiti Malaya, Bangsar, Kuala Lumpur | 2024 – current  
-- **BSc. of Materials Science**  
-  Universiti Malaya, Bangsar, Kuala Lumpur | 2018 – 2022
+
 
 ## 🎖️ Certificates
 <a href="https://www.credly.com/badges/688c06a9-a00a-4d4d-a4d1-71081a15c2a7/public_url">
