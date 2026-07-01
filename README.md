@@ -23,7 +23,14 @@
    
    
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhwan-bin-razali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ridhwanrazaliwork@gmail.com)
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridhwan-bin-razali)
+
+<!-- Email -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ridhwanrazaliwork@gmail.com)
+
+<!-- Portfolio -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://ridhwanrazali.dev/)
 
 # 💻 Tech Stack:
 
